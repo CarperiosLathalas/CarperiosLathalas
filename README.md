@@ -1,3 +1,5 @@
 -  Hi, I’m @CarperiosLathalas
 -  I’m currently learning Python, Javascript, HTML, and CSS
--  I'm currently working on an arg (Which is why im learning HTML and CSS)
+-  I'm currently working on two projects
+    - Monsters, Myths, and Mayhem.
+    - Eclipse ARG
