@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @CarperiosLathalas
-- 🌱 I’m currently learning Python, Javascript, HTML, and CSS
-- 💞️ I’m looking to collaborate on nothing right now
-- 📫 How to reach me: you can't
+-  Hi, I’m @CarperiosLathalas
+-  I’m currently learning Python, Javascript, HTML, and CSS
+-  I'm currently working on an arg (Which is why im learning HTML and CSS)
