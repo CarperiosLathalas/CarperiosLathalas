@@ -1,5 +1,6 @@
 -  Hi, I’m Jack Pennay
--  I’m currently learning Python, Javascript, HTML, and CSS (Help Me)
+-  I’m currently learning Python, Javascript, HTML, and CSS as well as cello, violin, and piano (Help Me)
 -  I'm currently working on two projects
     - Monsters, Myths, and Mayhem.
     - Eclipse ARG
+- The only way to contact me currently is JMPennay@outlook.com
